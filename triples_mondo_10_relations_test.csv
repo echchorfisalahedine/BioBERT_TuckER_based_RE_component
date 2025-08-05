@@ -1,0 +1,400 @@
+Japanese encephalitis;disease has infectious agent;Japanese encephalitis virus
+aspergillosis;disease has infectious agent;Aspergillus
+yaws;disease has infectious agent;Treponema pallidum subsp. pertenue
+vaccinia;disease has infectious agent;Vaccinia virus
+infection due to clostridium perfringens;disease has infectious agent;Clostridium perfringens
+acute hemorrhagic conjunctivitis;disease has infectious agent;Coxsackievirus A24
+acute hemorrhagic conjunctivitis;disease has infectious agent;enterovirus D70
+Rocky mountain spotted fever;disease has infectious agent;Rickettsia rickettsii
+Mycoplasma encephalitis;disease has infectious agent;Mycoplasmoides pneumoniae
+balantidiasis;disease has infectious agent;Balantidium
+balantidiasis;disease has infectious agent;Balantioides coli
+bartonellosis;disease has infectious agent;Bartonella
+chlamydia trachomatis infectious disease;disease has infectious agent;Chlamydia trachomatis D/UW-3/CX
+pharyngoconjunctival fever;disease has infectious agent;Adenoviridae
+Dictyocaulus infectious disease;disease has infectious agent;Dictyocaulus
+Rickettsia helvetica spotted fever;disease has infectious agent;Rickettsia helvetica
+tungiasis;disease has infectious agent;Tunga penetrans
+strongyloidiasis;disease has infectious agent;Strongyloides stercoralis
+screw worm infectious disease;disease has infectious agent;Cochliomyia hominivorax
+Demodex folliculitis;disease has infectious agent;Demodex folliculorum
+leprosy;disease has infectious agent;Mycobacterium leprae
+leprosy;disease has infectious agent;Mycobacterium lepromatosis
+Ureaplasma urethritis;disease has infectious agent;Ureaplasma
+Lyme disease;disease has infectious agent;Borreliella burgdorferi
+baylisascariasis;disease has infectious agent;Baylisascaris procyonis
+avian influenza;disease has infectious agent;Influenza A virus
+chancroid;disease has infectious agent;[Haemophilus] ducreyi
+echinostomiasis;disease has infectious agent;Echinostomatoidea
+Blastocystis infectious disease;disease has infectious agent;Blastocystis
+aquarium granuloma;disease has infectious agent;Mycobacterium marinum
+Bordetella parapertussis infectious disease;disease has infectious agent;Bordetella parapertussis
+monkeypox;disease has infectious agent;Monkeypox virus
+infectious mononucleosis;disease has infectious agent;human gammaherpesvirus 4
+haemophilus infectious disease;disease has infectious agent;Haemophilus
+heartwater disease;disease has infectious agent;Ehrlichia ruminantium
+protothecosis;disease has infectious agent;Prototheca
+Clostridium infectious disease;disease has infectious agent;Clostridium
+fusariosis;disease has infectious agent;Fusarium
+legionellosis;disease has infectious agent;Legionella pneumophila
+scabies;disease has infectious agent;Sarcoptes scabiei
+Bacteroidaceae infectious disease;disease has infectious agent;Bacteroidaceae
+vibrio infectious disease;disease has infectious agent;Vibrio
+hepatitis B virus infection;disease has infectious agent;Hepatitis B virus
+cork-handlers' disease;disease has infectious agent;Penicillium glabrum
+Israeli tick typhus;disease has infectious agent;Rickettsia conorii subsp. israelensis
+lice infestation;disease has infectious agent;Pediculus humanus
+Bacillaceae infectious disease;disease has infectious agent;Bacillaceae
+common wart;disease has infectious agent;This
+common wart;disease has infectious agent;Human papillomavirus types
+liver;develops from;liver bud
+thoracic vertebra;develops from;thoracic vertebra cartilage element
+mouth;develops from;future mouth
+pubic cartilage element;develops from;pubic pre-cartilage condensation
+hematopoietic system;develops from;blood island
+Mullerian duct;develops from;intermediate mesoderm
+cervical vertebra cartilage element;develops from;cervical vertebra pre-cartilage condensation
+tarsus cartilage element;develops from;tarsus pre-cartilage condensation
+ameloblast;develops from;preameloblast
+double-positive blast;develops from;resting double-positive thymocyte
+adipocyte;develops from;mesenchymal stem cell
+distal convoluted tubule;develops from;metanephric mesenchyme
+melanocyte;develops from;melanoblast
+maxillary artery;develops from;pharyngeal arch artery 1
+mesothelium;develops from;mesoderm
+esophagus;develops from;foregut
+nose;develops from;olfactory placode
+myeloid cell;develops from;common myeloid progenitor
+orthochromatic erythroblast;develops from;polychromatophilic erythroblast
+ventral pancreatic duct;develops from;ventral pancreatic bud
+immature single positive thymocyte;develops from;DN4 thymocyte
+periderm;develops from;external ectoderm
+periderm;develops from;enveloping layer of ectoderm
+odontogenic papilla;develops from;uncondensed odontogenic mesenchyme
+undifferentiated genital tubercle;develops from;somatopleure
+thymus primordium;develops from;early pharyngeal endoderm
+fibroblast;develops from;mesenchymal stem cell
+otocyst lumen;develops from;otic pit
+Rathke's pouch;develops from;stomodeum
+Rathke's pouch;develops from;adenohypophyseal placode
+plasma cell;develops from;plasmablast
+abdominal external oblique muscle;develops from;external oblique pre-muscle mass
+body of sphenoid;develops from;prechordal cartilage
+body of sphenoid;develops from;hypophyseal cartilage
+Slamf1-positive multipotent progenitor cell;develops from;short term hematopoietic stem cell
+ascending aorta;develops from;outflow tract aortic component
+serratus ventralis;develops from;serratus ventralis pre-muscle mass
+central retinal vein;develops from;hyaloid vein
+megakaryocyte;develops from;megakaryocyte progenitor cell
+postcranial axial skeletal system;develops from;sclerotome
+calcaneus;develops from;calcaneum cartilage element
+sphincter pupillae;develops from;neurectoderm
+mesonephric renal vesicle;develops from;primitive mesonephric nephron
+vestibulocochlear nerve;develops from;otic placode
+ventral pancreas;develops from;pancreas ventral primordium
+proximal tarsal bone;develops from;proximal tarsal cartilage
+glans clitoris;develops from;future glans clitoris
+sublingual gland;develops from;sublingual gland primordium
+amniotic cavity;develops from;inner cell mass
+pycnodysostosis;disease has feature;Severe short stature
+pycnodysostosis;disease has feature;Osteopetrosis
+nail anomaly;disease has feature;Abnormality of the nail
+liver cancer;disease has feature;Abdominal pain
+osteopathia striata-pigmentary dermopathy-white forelock syndrome;disease has feature;Increased bone mineral density
+acute chest syndrome;disease has feature;Leukocytosis
+acute chest syndrome;disease has feature;Tachypnea
+aceruloplasminemia;disease has feature;Progressive neurologic deterioration
+cryptogenic organizing pneumonia;disease has feature;Weight loss
+cryptogenic organizing pneumonia;disease has feature;Onset
+cryptogenic organizing pneumonia;disease has feature;Scarring
+congenital myasthenic syndrome;disease has feature;Fatigable weakness
+secondary Parkinson disease;disease has feature;Parkinsonism
+oculocerebrodental syndrome;disease has feature;Abnormality of bone mineral density
+plague;disease has feature;Vomiting
+plague;disease has feature;Headache
+Smith-Magenis syndrome;disease has feature;Autism
+Denys-Drash syndrome;disease has feature;Male pseudohermaphroditism
+Denys-Drash syndrome;disease has feature;Diffuse mesangial sclerosis
+hyperkalemic periodic paralysis;disease has feature;Hyperkalemia
+Behcet disease;disease has feature;Uveitis
+poikiloderma with neutropenia;disease has feature;neutropenia
+bronchiectasis;disease has feature;Bronchiectasis
+bronchiectasis;disease has feature;Recurrent respiratory infections
+bronchiectasis;disease has feature;Immunodeficiency
+bronchiectasis;disease has feature;Neoplasm of the lung
+Camurati-Engelmann disease;disease has feature;Increased bone mineral density
+asymptomatic neurosyphilis;disease has feature;Meningitis
+vascular dementia;disease has feature;Dementia
+toxoplasmosis;disease has feature;Infectious encephalitis
+Caffey disease;disease has feature;Irritability
+osteogenesis imperfecta;disease has feature;Reduced bone mineral density
+neuroendocrine neoplasm;disease has feature;Abdominal pain
+neuroendocrine neoplasm;disease has feature;dysentery
+autosomal dominant hypocalcemia;disease has feature;Hypoparathyroidism
+autosomal dominant hypocalcemia;disease has feature;Hypocalcemia
+NAA10-related syndrome;disease has feature;Abnormality of the skeletal system
+NAA10-related syndrome;disease has feature;Intellectual disability
+NAA10-related syndrome;disease has feature;Hypotonia
+NAA10-related syndrome;disease has feature;Abnormality of the cardiovascular system
+NAA10-related syndrome;disease has feature;Abnormal facial shape
+NAA10-related syndrome;disease has feature;Neurodevelopmental delay
+NAA10-related syndrome;disease has feature;autism spectrum disorder
+hypochondrogenesis;disease has feature;Hydrops fetalis
+Mobius syndrome;disease has feature;Strabismus
+polydactyly;disease has feature;Polydactyly
+Kuster Majewski Hammerstein syndrome;disease has feature;Macular degeneration
+Kuster Majewski Hammerstein syndrome;disease has feature;Growth delay
+Kuster Majewski Hammerstein syndrome;disease has feature;Alopecia
+anemia due to enzyme disorder;disease caused by disruption of;catalytic activity
+tactile agnosia;disease caused by disruption of;sensory perception of touch
+intestinal disaccharidase deficiency;disease caused by disruption of;disaccharide metabolic process
+mental disorder;disease caused by disruption of;mental process
+biotin metabolic disease;disease caused by disruption of;biotin metabolic process
+apperceptive agnosia;disease caused by disruption of;visual behavior
+ochronosis disorder;disease caused by disruption of;homogentisate metabolic process
+disorder of methylamine metabolism;disease caused by disruption of;methylamine metabolic process
+pyridoxal phosphate-responsive seizures;has material basis in germline mutation in;PNPO
+Charcot-Marie-Tooth disease axonal type 2F;has material basis in germline mutation in;HSPB1
+multiple self-healing squamous epithelioma;has material basis in germline mutation in;TGFBR1
+Buschke-Ollendorff syndrome;has material basis in germline mutation in;LEMD3
+Nijmegen breakage syndrome-like disorder;has material basis in germline mutation in;RAD50
+isolated microphthalmia 4;has material basis in germline mutation in;GDF6
+focal segmental glomerulosclerosis 1;has material basis in germline mutation in;ACTN4
+myotonic dystrophy type 1;has material basis in germline mutation in;DMPK
+mandibulofacial dysostosis-microcephaly syndrome;has material basis in germline mutation in;EFTUD2
+Moyamoya disease 5;has material basis in germline mutation in;ACTA2
+parietal foramina with cleidocranial dysplasia;has material basis in germline mutation in;MSX2
+autoimmune lymphoproliferative syndrome type 2A;has material basis in germline mutation in;CASP10
+Curry-Jones syndrome;has material basis in germline mutation in;SMO
+metaphyseal anadysplasia 2;has material basis in germline mutation in;MMP9
+hereditary fructose intolerance;has material basis in germline mutation in;ALDOB
+polymicrogyria with optic nerve hypoplasia;has material basis in germline mutation in;TUBA8
+patterned macular dystrophy 2;has material basis in germline mutation in;CTNNA1
+mucopolysaccharidosis type 3D;has material basis in germline mutation in;GNS
+uncombable hair syndrome 1;has material basis in germline mutation in;PADI3
+terminal osseous dysplasia-pigmentary defects syndrome;has material basis in germline mutation in;FLNA
+multiple mitochondrial dysfunctions syndrome 2;has material basis in germline mutation in;BOLA3
+Niemann-Pick disease type B;has material basis in germline mutation in;SMPD1
+myofibrillar myopathy 3;has material basis in germline mutation in;MYOT
+microcephaly-micromelia syndrome;has material basis in germline mutation in;DONSON
+familial acute necrotizing encephalopathy;has material basis in germline mutation in;RANBP2
+CINCA syndrome;has material basis in germline mutation in;NLRP3
+autosomal dominant keratitis;has material basis in germline mutation in;PAX6
+C syndrome;has material basis in germline mutation in;CD96
+Li-Fraumeni syndrome;has material basis in germline mutation in;TP53
+familial hypertryptophanemia;has material basis in germline mutation in;TDO2
+spermatogenic failure 17;has material basis in germline mutation in;PLCZ1
+Lenz-Majewski hyperostotic dwarfism;has material basis in germline mutation in;PTDSS1
+lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome;has material basis in germline mutation in;KIF14
+atrial standstill 2;has material basis in germline mutation in;NPPA
+Smith-Lemli-Opitz syndrome;has material basis in germline mutation in;DHCR7
+RNASEH2A-related type 1 interferonopathy;has material basis in germline mutation in;RNASEH2A
+long QT syndrome 10;has material basis in germline mutation in;SCN4B
+hydroxyacyl glutathione hydrolase deficiency;has material basis in germline mutation in;HAGH
+neuroferritinopathy;has material basis in germline mutation in;FTL
+Cold-induced sweating syndrome 1;has material basis in germline mutation in;CRLF1
+Bardet-Biedl syndrome 6;has material basis in germline mutation in;MKKS
+hereditary intrinsic factor deficiency;has material basis in germline mutation in;CBLIF
+pontocerebellar hypoplasia type 2E;has material basis in germline mutation in;VPS53
+hereditary cryohydrocytosis with reduced stomatin;has material basis in germline mutation in;SLC2A1
+RDH12-related recessive retinopathy;has material basis in germline mutation in;RDH12
+bilateral frontoparietal polymicrogyria;has material basis in germline mutation in;ADGRG1
+sialidosis type 2;has material basis in germline mutation in;NEU1
+primary ciliary dyskinesia 13;has material basis in germline mutation in;DNAAF1
+infantile liver failure syndrome 1;has material basis in germline mutation in;LARS1
+retina;has part;retinal ganglion cell
+pulmonary part of lymphatic system;has part;pulmonary lymphatic vessel
+uvea;has part;iris
+uvea;has part;ciliary body
+uvea;has part;optic choroid
+manganese group molecular entity;has part;manganese group element atom
+terminal bronchiole epithelium;has part;club cell
+terminal bronchiole epithelium;has part;lung ciliated cell
+tyrosine;has part;4-hydroxybenzyl group
+iris epithelium;has part;pigment granule
+endocervix;has part;simple columnar epithelium
+gastrulation;has part;ectoderm formation
+gastrulation;has part;endoderm formation
+gastrulation;has part;mesoderm formation
+valine;has part;isopropyl group
+fibrous joint;has part;connective tissue cell
+ciliated cell;has part;cilium
+lipoprotein;has part;apolipoprotein
+skin mucous gland;has part;mucus secreting cell
+serous sac;has part;serous membrane
+serous sac;has part;anatomical cavity
+tympanic membrane;has part;intermediate layer of tympanic membrane
+olfactory epithelium;has part;olfactory receptor cell
+olfactory epithelium;has part;olfactory epithelial supporting cell
+olfactory epithelium;has part;basal cell of olfactory epithelium
+lymphoid tissue;has part;lymphocyte
+pulmonary surfactant;has part;lipoprotein
+brainstem;has part;medulla oblongata
+brainstem;has part;midbrain tegmentum
+manual digit plus metapodial segment;has part;manual digit
+mitochondrial transcription factor activity;has part;mitochondrial promoter sequence-specific DNA binding
+serous pericardium;has part;parietal serous pericardium
+serous pericardium;has part;visceral serous pericardium
+fibrocartilage;has part;chondrocyte
+fibrocartilage;has part;collagen type I trimer
+cilium assembly;has part;axoneme assembly
+cilium assembly;has part;protein localization to cilium
+cilium assembly;has part;ciliary transition zone assembly
+lymph node;has part;cortex of lymph node
+lymph node;has part;medulla of lymph node
+lymph node;has part;capsule of lymph node
+lymph node;has part;lymph
+visceral serous pericardium;has part;epicardium
+pigmented layer of retina;has part;pigment granule
+myeloblast;has part;basophilic cytoplasm
+myeloblast;has part;euchromatin
+hydrogen molecular entity;has part;hydrogen atom
+adrenal medulla;has part;chromaffin cell of adrenal gland
+peptidase regulator activity;has part;protease binding
+femoral vein thrombophlebitis;disease has location;femoral vein
+mediastinal neural neoplasm;disease has location;nerve
+palpebral epidermal tumor;disease has location;skin of eyelid
+Littre gland carcinoma;disease has location;male urethral gland
+lacrimal duct cancer;disease has location;lacrimal drainage system
+cholesterol embolism;disease has location;blood vessel
+ovarian disorder;disease has location;ovary
+biliary dyskinesia;disease has location;sphincter of hepatopancreatic ampulla
+peritonsillar abscess;disease has location;palatine tonsil
+axillary neoplasm;disease has location;axilla
+anal canal cancer;disease has location;anal canal
+heel spur;disease has location;calcaneus
+mediastinitis;disease has location;mediastinum
+eyelid sebaceous gland carcinoma;disease has location;sebaceous gland of eyelid
+neoplasm of oropharynx;disease has location;oropharynx
+dentin caries;disease has location;dentine
+neuroma;disease has location;nerve
+ethmoid sinusitis;disease has location;ethmoid bone
+ureteral disorder;disease has location;ureter
+tibia fracture;disease has location;tibia
+adenoid hypertrophy;disease has location;palatine uvula
+motor neuron disorder;disease has location;motor neuron
+testicular disorder;disease has location;testis
+T-cell leukemia;disease has location;T cell
+chondroma;disease has location;hyaline cartilage tissue
+dermatomyositis;disease has location;musculature
+mycetoma;disease has location;hypodermis
+Meckel diverticulum neoplasm;disease has location;Meckel's diverticulum
+heart disorder;disease has location;heart plus pericardium
+intraductal papillomatosis;disease has location;duct
+Whipple disease;disease has location;digestive system
+pouchitis;disease has location;ileum
+soft palate cancer;disease has location;soft palate
+femoral neck fracture;disease has location;neck of femur
+autoimmune disorder of exocrine system;disease has location;exocrine system
+trochlear nerve disorder;disease has location;trochlear nerve
+brainstem neoplasm;disease has location;brainstem
+cor biloculare;disease has location;heart
+follicular thyroid adenoma;disease has location;thyroid follicle
+plantar nerve lesion;disease has location;plantar nerve
+anterior spinal artery stroke;disease has location;spinal artery
+breast diffuse large B-cell lymphoma;disease has location;mammary gland
+MALT lymphoma;disease has location;mucosa-associated lymphoid tissue
+respiratory tract infectious disorder;disease has location;respiratory tract
+diencephalic cancer;disease has location;diencephalon
+adrenal gland disorder;disease has location;adrenal gland
+diaphragm disorder;disease has location;diaphragm
+human monocytic ehrlichiosis;disease has location;myeloid leukocyte
+jejunal neoplasm;disease has location;jejunum
+hindlimb stylopod;part of;hindlimb
+skin of chest;part of;chest
+chorioretinal region;part of;Eumetazoa
+chorioretinal region;part of;eyeball of camera-type eye
+mesenchyme of carpal region;part of;carpal region
+coccyx;part of;bony pelvis
+subarachnoid space of brain;part of;brain
+vascular system;part of;cardiovascular system
+7q11.2 (Human);part of;7q11 (Human)
+umbilical artery endothelium;part of;umbilical artery
+tongue;part of;mouth
+tongue;part of;gustatory system
+minor vestibular gland;part of;female reproductive system
+minor vestibular gland;part of;female urethra
+uterine wall;part of;uterus
+10p11.21-p12.31 (Human);part of;10p (Human)
+alveolus of lung;part of;lung
+alveolus of lung;part of;alveolar system
+alveolus of lung;part of;pulmonary acinus
+vestibular epithelium;part of;vestibular labyrinth
+bronchus elastic tissue;part of;submucosa of bronchus
+bronchus elastic tissue;part of;bronchus
+16p12 (Human);part of;16p1 (Human)
+roof plate;part of;neural tube
+pectoral complex muscle;part of;pectoral complex
+pectoral complex muscle;part of;musculature of pectoral complex
+sphenoid endochondral element;part of;facial skeleton
+muscle of iris;part of;iris
+respiratory bronchiole;part of;pulmonary acinus
+umbilical smooth muscle;part of;umbilical cord
+cerebellum;part of;metencephalon
+cerebellum;part of;hindbrain
+complement receptor activity;part of;complement receptor mediated signaling pathway
+bony otic capsule;part of;petrous part of temporal bone
+organ component layer;part of;anatomical wall
+sweat gland of eyelid;part of;eyelid
+animal organ morphogenesis;part of;animal organ development
+myelin;part of;nervous system
+metatarsus skeleton;part of;metatarsus region
+metatarsus skeleton;part of;skeleton of pedal digitopodium
+olfactory region;part of;neurocranium
+olfactory region;part of;chondrocranium
+endoderm of foregut;part of;foregut
+trachea;part of;tracheobronchial tree
+submucosa of segmental bronchus;part of;segmental bronchus
+tunica intima of artery;part of;artery wall
+tunica intima of artery;part of;artery
+skeleton of manus;part of;forelimb skeleton
+skeleton of manus;part of;manus
+heavy chain disease;is a;plasma cell neoplasm
+severe pre-eclampsia;is a;preeclampsia
+Scott syndrome;is a;inherited blood coagulation disorder
+intellectual disability-feeding difficulties-developmental delay-microcephaly syndrome;is a;syndromic intellectual disability
+intellectual disability-feeding difficulties-developmental delay-microcephaly syndrome;is a;congenital nervous system disorder
+intellectual disability-feeding difficulties-developmental delay-microcephaly syndrome;is a;multiple congenital anomalies/dysmorphic syndrome-intellectual disability
+focal myositis;is a;acquired idiopathic inflammatory myopathy
+giant papillary conjunctivitis;is a;blepharoconjunctivitis
+giant papillary conjunctivitis;is a;papillary conjunctivitis
+DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome;is a;syndromic constitutional thrombocytopenia
+synovitis;is a;connective tissue disorder
+synovitis;is a;arthritic joint disease
+synovitis;is a;serositis
+synovitis;is a;synovium disorder
+infectious encephalitis;is a;encephalitis
+infectious encephalitis;is a;central nervous system infectious disorder
+auditory perceptual disorders;is a;mental disorder
+auditory perceptual disorders;is a;hearing disorder
+autoimmune inner ear disease;is a;inner ear disorder
+Fanconi anemia complementation group Q;is a;Fanconi anemia
+KIAA0753;is a;gene
+vulvar glandular neoplasm;is a;vulvar neoplasm
+vulvar glandular neoplasm;is a;glandular cell neoplasm
+lymphocyte of B lineage;is a;lymphocyte
+Bruck syndrome 2;is a;Bruck syndrome
+ulnar-mammary syndrome;is a;syndromic disease
+ulnar-mammary syndrome;is a;non-syndromic limb reduction defect
+autosomal recessive cerebellar ataxia-blindness-deafness syndrome;is a;autosomal recessive syndromic cerebellar ataxia
+syndactyly type 8;is a;non-syndromic syndactyly
+pituitary adenocarcinoma;is a;head and neck carcinoma
+pituitary adenocarcinoma;is a;pituitary cancer
+pituitary adenocarcinoma;is a;bone carcinoma
+pituitary adenocarcinoma;is a;adenocarcinoma
+hereditary attention deficit-hyperactivity disorder;is a;attention deficit-hyperactivity disorder
+GlyA-positive reticulocytes;is a;enucleated reticulocyte
+leptospirosis;is a;primary bacterial infectious disease
+leptospirosis;is a;spirochaetales infections
+congenital cataracts-facial dysmorphism-neuropathy syndrome;is a;congenital nervous system disorder
+congenital cataracts-facial dysmorphism-neuropathy syndrome;is a;multiple congenital anomalies/dysmorphic syndrome-intellectual disability
+urachal sinus;is a;congenital urachal anomaly
+nephritis;is a;kidney disorder
+nephritis;is a;inflammatory disease
+cutaneous botryomycosis;is a;botryomycosis
+spermatogenic failure 7;is a;spermatogenic failure
+thrombocytopenic purpura;is a;thrombocytopenia
+thrombocytopenic purpura;is a;purpura
+thrombocytopenic purpura;is a;immune system disorder
+thrombocytopenic purpura;is a;thrombotic microangiopathy
+carcinoma in situ of oropharynx;is a;pharynx carcinoma in situ
